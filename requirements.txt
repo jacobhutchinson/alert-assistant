@@ -1,0 +1,10 @@
+langchain
+llama-cpp-python
+chromadb
+unstructured
+tabulate
+pdf2image
+atlassian-python-api
+beautifulsoup4
+datadog
+pyyaml
